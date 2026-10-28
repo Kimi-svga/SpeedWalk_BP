@@ -1,0 +1,19 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "speed:tracker",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:icon": {
+        "texture": "tracker_icon"
+      },
+      "minecraft:display_name": {
+        "value": "Трекер скорости"
+      },
+      "minecraft:hand_equipped": true
+    }
+  }
+} 
